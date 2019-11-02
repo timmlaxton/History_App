@@ -6,3 +6,6 @@ interactive timeline and map which provide a narrative account of each story, as
 
 
 This app was built using Javascript, Vue and MongoDB
+
+
+![](https://github.com/timmlaxton/History_App/blob/master/History%20App.png?raw=true)

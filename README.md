@@ -9,3 +9,5 @@ This app was built using Javascript, Vue and MongoDB
 
 
 ![](https://github.com/timmlaxton/History_App/blob/master/History%20App.png?raw=true)
+
+![](https://github.com/timmlaxton/History_App/blob/master/Screenshot%202019-11-02%20at%2017.34.37.png?raw=true)
